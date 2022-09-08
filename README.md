@@ -126,7 +126,7 @@ Nota: Procedimento testado com sucesso na(s) seguinte(s) Distro(s):
 
 
 ### Precisa de mais ajuda?
-[Nova mensagem](https://github.com/aljes96/globalprotect-app-for-linux/issues/new/choose)
+[Deixe seu comentário.](https://github.com/aljes96/globalprotect-app-for-linux/issues/new/choose)
 
 
 ### Referências
