@@ -118,11 +118,10 @@ source ~/.zshrc
 Nota: Procedimento testado com sucesso na(s) seguinte(s) Distro(s):
 - Ubuntu: 20.04
 
-### Precisa de mais ajuda?
-[Nova mensagem](https://github.com/aljes96/globalprotect-app-for-linux/issues/new/choose)
-
-
 ### Referências
 [GlobalProtect App for Linux](https://docs.paloaltonetworks.com/globalprotect/6-0/globalprotect-app-user-guide/globalprotect-app-for-linux)
 
 Publicado em [https://dev.to/aljes96](https://dev.to/aljes96/instalacao-do-cliente-globalprotect-vpn-no-linux-47m0)
+
+### Precisa de mais ajuda?
+[Nova mensagem](https://github.com/aljes96/globalprotect-app-for-linux/issues/new/choose)
