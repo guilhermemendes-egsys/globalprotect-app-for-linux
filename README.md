@@ -70,6 +70,11 @@ Para conectar execute a linha abaixo, substituindo “vpn.organizacao.com” pel
 ```
 globalprotect connect --portal vpn.empresa.com.br
 ```
+Exemplo: 
+```
+globalprotect connect --portal vpn2.tjro.jus.br
+```
+
 Em seguida informe o "usuário" e "senha" de acesso.
 > Só é necessário na primeira utilização.
 ```
