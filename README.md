@@ -115,18 +115,18 @@ source ~/.zshrc
 ```
 
 
-> **Dica**: [Adicionando certificado público da sua autoridade de certificação confiável ​​no Ubuntu 20.04](https://gist.github.com/aljes96/383991175131c1f05ceac0ae66eefbc5)
+> **Dica**: [Adicionando certificado público da sua autoridade de certificação confiável ​​no Ubuntu 20.04](https://gist.github.com/alexjesustech/383991175131c1f05ceac0ae66eefbc5)
 
 
 Nota: Procedimento testado com sucesso na(s) seguinte(s) Distro(s):
 - Ubuntu: 20.04
 
 
-*Publicado em [https://dev.to/aljes96](https://dev.to/aljes96/instalacao-do-cliente-globalprotect-vpn-no-linux-47m0)*
+*Publicado em [https://dev.to/alexjesustech](https://dev.to/alexjesustech/instalacao-do-cliente-globalprotect-vpn-no-linux-47m0)*
 
 
 ### Precisa de mais ajuda?
-[Deixe seu comentário.](https://github.com/aljes96/globalprotect-app-for-linux/issues/new/choose)
+[Deixe seu comentário.](https://github.com/alexjesustech/globalprotect-app-for-linux/issues/new/choose)
 
 
 ### Referências
