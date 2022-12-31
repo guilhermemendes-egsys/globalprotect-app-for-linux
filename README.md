@@ -16,7 +16,7 @@ Abra o terminal pressionando em simultâneo, as teclas “Ctrl + Alt + T” e ex
 cd ~/Downloads
 ```
 ```
-wget https://github.com/aljes96/globalprotect-app-for-linux/raw/main/PanGPLinux-6.0.0-c18.tgz
+wget https://github.com/alexjesustech/globalprotect-app-for-linux/raw/main/PanGPLinux-6.0.0-c18.tgz
 ```
 
 1.2 Descompacte o arquivo TGZ baixado com o comando a seguir:
